@@ -1,7 +1,7 @@
 # Level 3
 
 <p align="center">
-    <img src="..\..\assets\Level3Logo.png" alt="Level 3 Logo" width="400px">
+    <img src="..\..\assets\Level3Logo.PNG" alt="Level 3 Logo" width="400px">
 </p>
 
 ## About

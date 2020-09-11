@@ -1,7 +1,7 @@
 # Level 2
 
 <p align="center">
-    <img src="..\..\assets\Level2Logo.png" alt="Level 2 Logo" width="400px">
+    <img src="..\..\assets\Level2Logo.PNG" alt="Level 2 Logo" width="400px">
 </p>
 
 ## About
