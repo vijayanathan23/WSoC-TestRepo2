@@ -1,7 +1,7 @@
 # WSoC2001-CorePythonTest
 
 <p align="center">
-    <img src="assets\Logo.png" alt="header logo">
+    <img src="assets\Logo.png" alt="WSoC Logo">
     <br>Repository used for Shortlisting Candidates for the WSOC2001 Project
 </p>
 
