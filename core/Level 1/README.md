@@ -6,7 +6,7 @@
 
 ## About
 
-- Level 1 consists of three simple challenges revolving around Python file handling.
+- Level 1 consists of two simple challenges revolving around Python file handling.
 - Maximum points you can gain from this level is 20.
 - Distribution of points for each of the challenges is mentioned below.
     - Challenge 1 : 8 points.
@@ -29,6 +29,6 @@ In other words, you create a pickle file and save a dictionary of lists in it. L
 ## Things to remember
 
 - Files and programs required are already present within each of the challenge's respective folder. However, you can create or modify them as you see fit.
-- It is not necessary to take any user input. Feel free to hard code.
+- It is not necessary to take any user input. Feel free to hard code (Unless mentioned otherwise).
 - Once a challenge is completed, save the file, take a screenshot of the output and save it within the respective challenge's folder with the name "output".
 - It is advised to create a commit after you finish a challenge. However, it is entirely up to you.
