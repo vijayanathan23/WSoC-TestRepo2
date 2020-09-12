@@ -16,13 +16,13 @@
 
 In challenge 1 you are expected to create a **Bar graph** and a **Pie chart** from the data provided.
 - First read the data present within the "Data.pkl" file.
-- The dictionary object present in the file contains the data (key and value) where the key is the name of the subject and the value is the number of students who have passed in that subject.
+- The dictionary object present in the file contains the data (key and value) where the key is the name of the subject and the value is the number of students who have passed in that subject out of 50.
 - You are to create a Bar graph comparing all the different subjects.
 - Build a pie chart displaying the percentage share of each subject.
 
 ## Challenge 2
 
-In challenge 2, you will be building a SQLite database using python.
+In challenge 2, you will be building an SQLite database using python.
 - Create a "Data.db" file inside the "Challenge 2" folder.
 - Update the created database using the data provided below with the help of Python's Sqlite3 module.
 <p align="center">
