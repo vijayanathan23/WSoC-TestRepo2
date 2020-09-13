@@ -61,6 +61,17 @@ Once done, you are all set to get started.
 - It is not compulsory to do all the challenges. Do as many as you can before sending us a pull request. However, people who have solved more have a higher edge over others.
 - Make sure you fill the "About me.md" file present within the root directory of the repository before sending a pull request.
 - Earlier the submission, higher the priority. 
-- Last date of submission would be the **10th of October 2020**.
 - If you have any queries regarding any of the challenges or the event itself, feel free to create a GitHub issue.
 - Have fun💥✨!
+
+## What next?
+
+There exist two deadlines for submission.\
+**September 25th.** For the early birds.\
+**October 10th.** For the perfectionists.\
+(The earlier, the better 😄)
+
+If you've done your best with the branch and have sent it in for merging already, you're on the right track.\
+Don't worry about the results, take a break.
+
+We'll contact you if you're in. 😉
