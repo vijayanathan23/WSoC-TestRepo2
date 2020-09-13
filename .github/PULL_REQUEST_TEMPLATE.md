@@ -1,3 +1,8 @@
+<!-- ⚠️⚠️ Do Not Delete These Comments. ⚠️⚠️ -->
+<!-- Please read these comments/instructions carefully and do accordingly  -->
+<!-- Read our Rules of Conduct: https://github.com/Open-Source-Community-VIT-AP/WSoC-TestRepo2/blob/master/.github/CODE_OF_CONDUCT.md -->
+<!--- Add your Name followed by your registration number in the title above -->
+
 # About Me
 
 <!--- Fill in the details below before sending us a pull request -->
@@ -21,7 +26,7 @@ Tick the check boxes below if true :
 
 - [ ] This is my first Open Source Project.
 
-- [ ] I have programmed in Python.
+- [ ] I have programmed on Python.
 
 - [ ] I have worked on Django projects before.
 
@@ -32,3 +37,5 @@ Tick the check boxes below if true :
 ---
 
 Make sure you fill in this form before sending a pull request.
+
+<!-- Before submitting, click on the preview tab to check your work so far-->

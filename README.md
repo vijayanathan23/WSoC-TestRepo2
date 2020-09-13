@@ -49,8 +49,6 @@ where, branchname is the name of your branch. It is advised that you name the br
 
 Once done, you are all set to get started.
 
-**NOTE :** Make sure you fill the "About Me.md" file before sending a pull request.
-
 ## Things to remember
 
 - All the questions and programs are present in the directory called "core" within the repository.
@@ -59,7 +57,6 @@ Once done, you are all set to get started.
 - Further details about the challenges in each level will be mentioned in their respective README files.
 - You do not necessarily have to add comments for each line, but a short description could gain you a few extra points.
 - It is not compulsory to do all the challenges. Do as many as you can before sending us a pull request. However, people who have solved more have a higher edge over others.
-- Make sure you fill the "About me.md" file present within the root directory of the repository before sending a pull request.
 - Earlier the submission, higher the priority. 
 - If you have any queries regarding any of the challenges or the event itself, feel free to create a GitHub issue.
 - Have fun💥✨!
