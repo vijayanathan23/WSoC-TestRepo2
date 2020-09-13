@@ -1,4 +1,4 @@
-# WSoC2001-CorePythonTest
+# WSoC-TestRepo2
 
 <p align="center">
     <img src="assets\Logo.png" alt="WSoC Logo">
