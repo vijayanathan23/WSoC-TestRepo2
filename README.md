@@ -34,7 +34,7 @@ To start working on the challenges provided, you must first clone this repositor
 To do this, open your console and "**cd/**" to your working directory and type 
 
 <pre>
-git clone https://github.com/SVijayB/WSoC2001-CorePythonTest.git
+git clone https://github.com/Open-Source-Community-VIT-AP/WSoC-TestRepo2.git
 </pre>
 
 Once the repository is on your local system, you need to create a separate branch to start working. 
