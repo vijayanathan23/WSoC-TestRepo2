@@ -63,7 +63,13 @@ Once done, you are all set to get started.
 - If you have any queries regarding any of the challenges or the event itself, feel free to create a GitHub issue.
 - Have fun💥✨!
 
-## What next?
+## Submission
+
+If you are completed with the challenges or think you are ready to submit your work. Follow the steps below :
+- Push all your changes to your remote repository, use command `git push`.
+- Now, you need to send us a pull request. If you are not sure how to do that, click [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+- Make sure you fill out the final form present in the description of your pull request.
+- Once you submit your pull request, you are done!
 
 There exist two deadlines for submission.\
 **September 25th.** For the early birds.\
