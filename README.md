@@ -29,13 +29,13 @@ Languages and tools you are expected to know before working on the project :
 
 ## Getting Started
 
-To start working on the challenges provided, you must first clone this repository.
+To start working on the challenges provided, you must first fork this repository. Just press the fork button present in the top right corner of your screen. Once forked, you need to create a local copy of your repository.
 
-To do this, open your console and "**cd/**" to your working directory and type 
+Now, you must have your own copy of this repository in your GitHub page, just open your profile and open ```WSoC-TestRepo2```.
 
-<pre>
-git clone https://github.com/Open-Source-Community-VIT-AP/WSoC-TestRepo2.git
-</pre>
+Now, clone your copy of the repository to your local system.
+
+For more details on forking and cloning the repository, click [here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) (follow steps 1 and 2).
 
 Once the repository is on your local system, you need to create a separate branch to start working. 
 
@@ -46,6 +46,8 @@ git checkout -b branchname
 </pre>
 
 where, branchname is the name of your branch. It is advised that you name the branch after your registration number. 
+
+You can also branch directly from GitHub, click [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) for more info on that.
 
 Once done, you are all set to get started.
 
