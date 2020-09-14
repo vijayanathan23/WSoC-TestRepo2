@@ -29,9 +29,9 @@ Languages and tools you are expected to know before working on the project :
 
 ## Getting Started
 
-To start working on the challenges provided, you must first fork this repository. Just press the fork button present in the top right corner of your screen. Once forked, you need to create a local copy of your repository.
+To start working on the challenges provided, you must first fork this repository. Just press the fork button present in the top right corner of your screen.
 
-Now, you must have your own copy of this repository in your GitHub page, just open your profile and open ```WSoC-TestRepo2```.
+Once done, you must be having your own copy of this repository in your GitHub page, just head over to your profile and open ```WSoC-TestRepo2```.
 
 Now, clone your copy of the repository to your local system.
 
