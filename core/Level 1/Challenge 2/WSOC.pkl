@@ -1,0 +1,18 @@
+(dp0
+S'schools'
+p1
+(lp2
+S'SENSE'
+p3
+aS'SCOPE'
+p4
+asS'clubs'
+p5
+(lp6
+S'OSC'
+p7
+aS'Bioscope'
+p8
+aS'Beat the Heat'
+p9
+as.
